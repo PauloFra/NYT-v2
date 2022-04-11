@@ -1,0 +1,9 @@
+nav ul , li{
+    display: inline;
+}
+nav ul{
+    margin-left: 30px;
+}
+nav{
+    display: flex;
+}
